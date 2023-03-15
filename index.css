@@ -11,7 +11,7 @@
     list-style-type: none;
 }
 .bgimage{
-    background: url(./image/clientmeet.jpg) ;
+    background: url(image/clientmeet.jpg) ;
     background-size: cover;
     background-attachment: scroll;
     background-repeat: no-repeat;
@@ -71,7 +71,7 @@
     width: 50vw;   
 }
 .shop2{
-    background-image: url('/image/pharmacy-background.jpg');
+    background-image: url('image/pharmacy-background.jpg');
     background-size: cover;
     background-attachment: scroll;
     background-repeat: no-repeat;
@@ -94,4 +94,8 @@
     background-attachment: scroll;
     background-repeat: no-repeat;
     background-position: center;
+}
+.small{
+    height: 45px;
+    width: 45px ;
 }
